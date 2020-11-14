@@ -1,9 +1,7 @@
 # Fashionista: Training Mask R-CNN
-* Machine learning/ Deep learning
-* Object detection/ Instance segmentation/ semantic segmentation
-* Fast R-CNN/ Faster R-CNN
-* Mask R-CNN with insights on Anchor Boxes / Intersection over Union — IoU
-* Work on data with Anaconda for dataset (for fashionista)
-* Fashionista setup
-* mAP applied on model during training
-* Inference and result using LB and Confusion matrix 
+* Chap1:Storia AI(Conferenza Dartmouth, Epoca d'oro, Limiti dell'epoca, Perceptron)
+* Chap2:Reti neurali(Apprendimento, Paradigmi d'apprendimento, propagazione errore, tipi di rete neurale, classe di problemi[obj segmentation, instance segmentation])
+* Chap3:R-CNN(Anchor Boxes / Intersection over Union — IoU, Fast R-CNN, Faster R-CNN, MaskR-CNN )
+* Chap4:Fashionista(Colab, Analisi dati con Pandas, utilizzo di Tenserflow e Keras, Tranining con mAP, Predict e analisi dei risultati con LB e confusion matrix)
+
+
